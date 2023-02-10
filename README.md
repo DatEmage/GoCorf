@@ -1,2 +1,1 @@
-# GoCorf
-A Discord clone with PHP
+An upcoming Discord clone 
