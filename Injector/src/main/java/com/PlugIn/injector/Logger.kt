@@ -1,7 +1,7 @@
 /*
  * This file is distirbuted by PlugIn
  * Copyright (c) 2023 SYS
- * Licensed under the GPT-3.0 license
+ * Licensed under the GPL-3.0 license
  */
 
 package com.plugin.injector
