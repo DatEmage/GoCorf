@@ -1,6 +1,8 @@
+// Thanks to Aliucord for this file 
+// https://github.com/Aliucord/Aliucord
 plugins {
     id("com.android.library")
-    id("com.aliucord.gradle")
+    id("com.plugin.gradle")
     id("kotlin-android")
 }
 
