@@ -1,1 +1,1 @@
-An upcoming Discord clone 
+An upcoming Discord client modification for android 
